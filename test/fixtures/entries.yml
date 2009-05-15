@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  transaction_id: 2009-05-15 15:38:29
+  source_id: 1
+  destination_id: 1
+  credit: 
+  debit: 
+  deleted: false
+  description: MyString
+
+two:
+  transaction_id: 2009-05-15 15:38:29
+  source_id: 1
+  destination_id: 1
+  credit: 
+  debit: 
+  deleted: false
+  description: MyString

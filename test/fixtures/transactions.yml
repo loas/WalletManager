@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  due_date: 2009-05-15 15:37:16
+  deleted: false
+
+two:
+  due_date: 2009-05-15 15:37:16
+  deleted: false
